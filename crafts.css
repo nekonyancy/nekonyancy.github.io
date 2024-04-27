@@ -56,8 +56,8 @@ p {
 .menuitem {
 	text-align: center;
 	color: white;
-	background-color: rgb(52,235,119,0.5);
-	border: 2px solid #80ff80;
+	background-color: red;
+	border: 12px solid #80ff80;
 	height: 100px;
 	width: 600px;
 	padding: 10px;
@@ -77,9 +77,10 @@ p {
 .tbutton{
 	height: 50px;
 	width: 50px;
-	margin: 10px;
 }
-.twitchbutton {
+.twbutton{
+	height: 50px;
+	width: 50px;
 }
 .ybutton{
 	height: 50px;
